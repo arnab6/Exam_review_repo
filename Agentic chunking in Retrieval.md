@@ -9,8 +9,6 @@ Key aspects of agentic chunking include:
 - **Hierarchical Chunking**: Some implementations allow multi-level chunking (e.g., paragraphs, sections, sub-sections) to optimize retrieval.
 - **Efficiency in Retrieval**: Reduces unnecessary retrieval of irrelevant data while improving precision.
 
-I will conduct further research to find specific implementations, models, and case studies on agentic chunking in RAG systems. I’ll update you soon.
-
 **Agentic Chunking in Retrieval-Augmented Generation (RAG)**
 
 **Introduction to RAG and Chunking**
